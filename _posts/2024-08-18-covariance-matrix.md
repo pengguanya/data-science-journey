@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Covariance Matrix of Multivariate Gaussian Distributions: A Detailed Exploration"
 date: 2023-09-28
 categories: blog
